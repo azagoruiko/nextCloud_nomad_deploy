@@ -1,4 +1,4 @@
-FROM nextcloud:16.0.9-apache
+FROM nextcloud:17.0.10-apache
 
 RUN apt-get update && apt-get install -y nfs-common
 
