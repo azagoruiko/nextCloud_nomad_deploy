@@ -28,7 +28,7 @@ EOH
         env = true
       }
       config {
-        image = "127.0.0.1:9999/docker/nextcloud:0.0.1"
+        image = "127.0.0.1:9999/docker/nextcloud:0.0.7"
         privileged = true
         args = [
         ]
